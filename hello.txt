@@ -1,2 +1,2 @@
 hello_world
-generic starting lines for beginers.
+generic starting line for beginers.
